@@ -1,6 +1,6 @@
 # Getting Started with Create React App 
 
-[Application Url](real-time-jseditor.herokuapp.com/)
+[Application Url](https://real-time-jseditor.herokuapp.com/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
